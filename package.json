@@ -1,0 +1,15 @@
+{ "name": "vlc-ffi"
+, "description": "LibVLC bindings for Node.js using node-ffi"
+, "keywords": [ "libvlc", "video", "audio", "ffi" ]
+, "version": "0.0.3"
+, "author": "Adam Malcontenti-Wilson <adman.com@gmail.com>"
+, "repository": { "type": "git", "url": "git://github.com/adammw/node-vlc-ffi.git" }
+, "main": "./lib/vlc-ffi.js"
+, "dependencies": {
+      "debug": "*"
+    , "ref": "0"
+    , "ref-struct": "0"
+    , "ref-union": "0"
+  }
+, "engines": { "node": "*" }
+}
