@@ -10,6 +10,7 @@
     , "ref": "0"
     , "ref-struct": "0"
     , "ref-union": "0"
+    , "ffi": "~1"
   }
 , "engines": { "node": "*" }
 }
